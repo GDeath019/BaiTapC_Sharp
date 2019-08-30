@@ -1,0 +1,10 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\bin\Debug\Bai8WF.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\bin\Debug\Bai8WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\bin\Debug\Bai8WF.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai8WF\obj\Debug\Bai8WF.pdb
