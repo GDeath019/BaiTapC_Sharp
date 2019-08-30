@@ -1,0 +1,9 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\bin\Debug\Bai9WF.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\bin\Debug\Bai9WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\bin\Debug\Bai9WF.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai9WF\obj\Debug\Bai9WF.pdb
