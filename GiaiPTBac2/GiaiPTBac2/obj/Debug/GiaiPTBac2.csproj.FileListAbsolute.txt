@@ -1,0 +1,21 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\bin\Debug\GiaiPTBac2.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\GiaiPTBac2\obj\Debug\GiaiPTBac2.pdb
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.Form1.resources
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.Login.resources
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.Properties.Resources.resources
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.exe
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.pdb
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe.config
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe
+C:\Users\vuqua\source\repos\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.pdb

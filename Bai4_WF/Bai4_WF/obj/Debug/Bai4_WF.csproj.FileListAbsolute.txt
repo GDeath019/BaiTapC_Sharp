@@ -1,0 +1,20 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\bin\Debug\Bai4_WF.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\bin\Debug\Bai4_WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\bin\Debug\Bai4_WF.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\Bai4_WF\obj\Debug\Bai4_WF.pdb
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.Form1.resources
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.Properties.Resources.resources
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.exe
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\obj\Debug\Bai4_WF.pdb
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\bin\Debug\Bai4_WF.exe.config
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\bin\Debug\Bai4_WF.exe
+C:\Users\vuqua\source\repos\Bai4_WF\Bai4_WF\bin\Debug\Bai4_WF.pdb

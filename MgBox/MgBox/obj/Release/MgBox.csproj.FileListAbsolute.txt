@@ -1,0 +1,10 @@
+C:\Users\vuqua\source\repos\MgBox\MgBox\bin\Release\MgBox.exe.config
+C:\Users\vuqua\source\repos\MgBox\MgBox\bin\Release\MgBox.exe
+C:\Users\vuqua\source\repos\MgBox\MgBox\bin\Release\MgBox.pdb
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.Form1.resources
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.Properties.Resources.resources
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.exe
+C:\Users\vuqua\source\repos\MgBox\MgBox\obj\Release\MgBox.pdb

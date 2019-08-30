@@ -1,0 +1,10 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\bin\Debug\BaiTest.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\bin\Debug\BaiTest.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\bin\Debug\BaiTest.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTest\obj\Debug\BaiTest.pdb

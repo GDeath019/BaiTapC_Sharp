@@ -1,0 +1,7 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\obj\Debug\BaiTap1_CSharp.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\obj\Debug\BaiTap1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\bin\Debug\BaiTap1_CSharp.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\bin\Debug\BaiTap1_CSharp.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\bin\Debug\BaiTap1_CSharp.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\obj\Debug\BaiTap1_CSharp.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\BaiTap1_CSharp\obj\Debug\BaiTap1_CSharp.pdb

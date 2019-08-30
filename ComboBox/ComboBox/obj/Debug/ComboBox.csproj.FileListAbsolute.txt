@@ -1,0 +1,20 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.Cbo_Main.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.Cbo_Main.resources
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\vuqua\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

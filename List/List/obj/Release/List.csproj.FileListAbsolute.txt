@@ -1,0 +1,7 @@
+C:\Users\vuqua\source\repos\List\List\bin\Release\List.exe.config
+C:\Users\vuqua\source\repos\List\List\bin\Release\List.exe
+C:\Users\vuqua\source\repos\List\List\bin\Release\List.pdb
+C:\Users\vuqua\source\repos\List\List\obj\Release\List.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\List\List\obj\Release\List.exe
+C:\Users\vuqua\source\repos\List\List\obj\Release\List.pdb
+C:\Users\vuqua\source\repos\List\List\obj\Release\List.csprojAssemblyReference.cache

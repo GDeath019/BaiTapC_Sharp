@@ -1,0 +1,6 @@
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\bin\Release\TuDienAV1.exe.config
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\bin\Release\TuDienAV1.exe
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\bin\Release\TuDienAV1.pdb
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\obj\Release\TuDienAV1.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\obj\Release\TuDienAV1.exe
+C:\Users\vuqua\source\repos\TuDienAV1\TuDienAV1\obj\Release\TuDienAV1.pdb

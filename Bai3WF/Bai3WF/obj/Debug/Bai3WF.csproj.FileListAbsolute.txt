@@ -1,0 +1,10 @@
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.Form1.resources
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.Properties.Resources.resources
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\bin\Debug\Bai3WF.exe.config
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\bin\Debug\Bai3WF.exe
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\bin\Debug\Bai3WF.pdb
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.exe
+C:\Users\vuqua\source\repos\Bai3WF\Bai3WF\obj\Debug\Bai3WF.pdb

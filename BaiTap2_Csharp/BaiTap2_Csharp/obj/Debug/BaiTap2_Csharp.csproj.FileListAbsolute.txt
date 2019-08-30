@@ -1,0 +1,7 @@
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\bin\Debug\BaiTap2_Csharp.exe.config
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\bin\Debug\BaiTap2_Csharp.exe
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\bin\Debug\BaiTap2_Csharp.pdb
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\obj\Debug\BaiTap2_Csharp.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\obj\Debug\BaiTap2_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\obj\Debug\BaiTap2_Csharp.exe
+C:\Users\vuqua\source\repos\BaiTap2_Csharp\BaiTap2_Csharp\obj\Debug\BaiTap2_Csharp.pdb

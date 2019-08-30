@@ -1,0 +1,9 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\bin\Debug\MgBox.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\bin\Debug\MgBox.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\bin\Debug\MgBox.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\MgBox\obj\Debug\MgBox.pdb

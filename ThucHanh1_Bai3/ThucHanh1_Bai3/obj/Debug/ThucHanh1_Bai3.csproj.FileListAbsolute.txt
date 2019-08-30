@@ -1,0 +1,10 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\bin\Debug\ThucHanh1_Bai2.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\bin\Debug\ThucHanh1_Bai2.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\bin\Debug\ThucHanh1_Bai2.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai3.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai2.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai2.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai3.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai3.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai2.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ThucHanh1_Bai2\obj\Debug\ThucHanh1_Bai2.pdb
