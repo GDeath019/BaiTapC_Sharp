@@ -1,0 +1,20 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Release\ChexBandRadioButton.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Release\ChexBandRadioButton.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Release\ChexBandRadioButton.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\bin\Release\ChexBandRadioButton.exe.config
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\bin\Release\ChexBandRadioButton.exe
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\bin\Release\ChexBandRadioButton.pdb
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.Form1.resources
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.Properties.Resources.resources
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.exe
+C:\Users\vuqua\source\repos\ChexBandRadioButton\ChexBandRadioButton\obj\Release\ChexBandRadioButton.pdb

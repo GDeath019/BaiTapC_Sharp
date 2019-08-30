@@ -1,0 +1,10 @@
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Debug\ChexBandRadioButton.exe.config
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Debug\ChexBandRadioButton.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\bin\Debug\ChexBandRadioButton.pdb
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.csprojAssemblyReference.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.Form1.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.Properties.Resources.resources
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.csproj.GenerateResource.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.exe
+C:\Users\vuqua\AppData\Local\Temporary Projects\ChexBandRadioButton\obj\Debug\ChexBandRadioButton.pdb
