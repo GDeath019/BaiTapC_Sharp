@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-
+//dzo
 namespace BaiTap1WF
 {
     public partial class frm_TienDien : DevExpress.XtraEditors.XtraForm
